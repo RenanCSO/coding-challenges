@@ -1,2 +1,2 @@
 # coding-challenges
-Repo with code solutions for challenges on HackerRank, Leetcode, etc.
+Branch with code solutions for challenges on HackerRank, Leetcode, etc. in Java
